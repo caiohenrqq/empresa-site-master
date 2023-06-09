@@ -217,6 +217,10 @@ nav::after {
     animation-duration: 2.5s;
   }
 
+.section-sobre {
+    margin-bottom: 33vh;
+}
+
 .section-sobre h1 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 1.5rem;
@@ -231,3 +235,16 @@ nav::after {
     margin-top: 0.7rem;
 }
 
+.section-servicos p {
+    color: var(--branco);
+    font-weight: 200;
+    font-size: 1.2rem;
+    margin-top: 0.7rem;
+}
+
+.section-servicos h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 200;
+    color: var(--branco);
+}
